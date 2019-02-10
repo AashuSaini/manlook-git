@@ -303,7 +303,8 @@ li{
     width: 40px;
     float: right;
 }
-header .icon-header .cs-font {
+.icon-header .search .cs-font , .icon-header .icon-user .cs-font , .icon-header .top-wl-url .cs-font, 
+.icon-header .wrap-icon-cart .cs-font {
 color:#fff;
 }
 header .icon-header .cs-font:hover{
@@ -334,14 +335,7 @@ header .icon-header .cs-font:hover{
 .home .block-right {
     width: 95%;
 }
-.page-title {
-    position: absolute;
-    color: #fff;
-    z-index: 9999;
-    top: 125px;
-    font-size: 48px;
-    font-weight: bold;
-}
+
 .sticky-logo {
     width: 75px;
 }
@@ -442,3 +436,15 @@ header .icon-header .close-login .cs-font
 	color:#000;
 }
 .vendor-register a { color:#FB6622; }
+.woocommerce .zoo-single-product .entry-summary .cart .button:hover {
+	top: 0px !important;
+-webkit-transform: translateY(0px) !important;
+transform: translateY(0px) !important;
+}
+.woocommerce .zoo-single-product .entry-summary .cart .button::after{
+	bottom:0 !important;
+}
+.slick-track
+{
+	width:1170px !important;
+}

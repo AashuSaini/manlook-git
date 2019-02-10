@@ -1,0 +1,24 @@
+2019-02-08T04:30:09+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\manlook\wp-content\plugins\yith-woocommerce-compare\includes\class.yith-woocompare-admin.php on line 93
+
+2019-02-08T05:17:29+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\manlook\wp-content\plugins\clever-mega-menu\includes\class-clever-mega-menu-walker.php on line 7
+
+2019-02-08T05:17:56+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\manlook\wp-content\plugins\yith-woocommerce-wishlist\includes\functions.yith-wcwl.php on line 10
+
+2019-02-08T05:20:29+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\manlook\wp-includes\widgets\class-wp-widget-pages.php on line 17
+
+2019-02-08T05:27:37+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\manlook\wp-includes\theme.php on line 478
+
+2019-02-08T11:40:23+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\manlook\wp-content\plugins\yith-woocommerce-compare\plugin-fw\lib\yit-upgrade.php on line 10
+
+2019-02-08T12:24:12+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\manlook\wp-content\plugins\dc-woocommerce-multi-vendor\includes\class-wcmp-install.php on line 3
+
+2019-02-08T14:55:11+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\manlook\wp-content\plugins\clever-mega-menu\includes\class-clever-mega-menu-theme-meta.php on line 7
+
+2019-02-08T16:18:05+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\manlook\wp-content\plugins\js_composer\include\classes\vendors\plugins\class-vc-vendor-contact-form7.php on line 2
+
+2019-02-08T16:26:08+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\manlook\wp-content\plugins\woocommerce\includes\libraries\action-scheduler\classes\ActionScheduler_wpPostStore.php on line 6
+
+2019-02-08T17:21:47+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\manlook\wp-content\plugins\yith-woocommerce-compare\plugin-fw\yit-functions.php on line 11
+
+2019-02-08T18:04:46+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\manlook\wp-content\plugins\contact-form-7\modules\recaptcha.php on line 3
+
